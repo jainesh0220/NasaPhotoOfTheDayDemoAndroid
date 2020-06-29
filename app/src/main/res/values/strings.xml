@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nasa Photo of the Day</string>
+    <string name="str_connectivity_lost">Connectivity lost.</string>
+    <string name="str_placeholder">Title goes here</string>
+    <string name="str_placeholder_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sapien neque,
+        varius id tortor sit amet, convallis dapibus est. Ut justo justo, interdum in commodo sed, lacinia eu magna. Aenean vehicula sollicitudin elit non feugiat. Cras tempus est vel dui tincidunt dignissim. Nulla non ex sit amet turpis consectetur mattis. Vivamus id semper dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas vel turpis at mi sollicitudin egestas. Morbi quis fermentum felis. Fusce dapibus ut nulla non hendrerit. Duis vitae dignissim lacus, a rhoncus mauris.
+        Vestibulum pretium aliquam fermentum. Nam bibendum accumsan mauris vel sagittis. Pellentesque at egestas ipsum. </string>
+    <string name="str_choose_date">Choose date</string>
+    <string name="str_video_intent">NASA_PLAY</string>
+    <string name="str_api_error">Houston we have a problem!!</string>
+    <string name="str_close">Close app</string>
+    <string name="str_retry">Retry</string>
+</resources>
